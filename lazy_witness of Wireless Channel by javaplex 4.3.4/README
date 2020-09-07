@@ -1,6 +1,6 @@
 To run the MATLAB examples, perform the following steps:
 1. Run the 'load_javaplex.m' script from the current directory.
-2. Cd to the example directory of interest (e.g. 'basic_examples'), and run one of the scripts.
+2.  Run main_lazy_witness_example.m
 
 Notes:
 - library files should be placed in 'lib'
