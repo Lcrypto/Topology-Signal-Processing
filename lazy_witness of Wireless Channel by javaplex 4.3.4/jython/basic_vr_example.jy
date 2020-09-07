@@ -1,0 +1,36 @@
+#!/usr/bin/env jython
+
+import sys
+
+# Todo: make sure that this points to the correct location
+libs = [
+    "../lib/javaplex.jar"
+    ]
+for s in libs:
+    sys.path.append(s)
+
+import edu.stanford.math.plex4
+import edu.stanford.math.plex4.api
+import edu.stanford.math.plex4.examples
+import edu.stanford.math.plex4.io
+
+print("Starting")
+f8 = edu.stanford.math.plex4.examples.PointCloudExamples.getRandomFigure8Points(50)
+trefoil = edu.stanford.math.plex4.examples.PointCloudExamples.getRandomTrefoilKnotPoints(200)
+
+print("Created point sets")
+f8s = edu.stanford.math.plex4.api.Plex4.createVietorisRipsStream(f8, 2, 1.0)
+trefoils = edu.stanford.math.plex4.api.Plex4.createVietorisRipsStream(trefoil, 2, 1.0)
+
+print "Created simplex streams. Figure 8 has %d simplices and Trefoil has %d simplices" % (f8s.getSize(), trefoils.getSize())
+
+pH = edu.stanford.math.plex4.api.PersistenceAlgorithmInterface.getBooleanSimplicialAbsoluteHomology(2)
+
+f8bc = pH.computeIntervals(f8s)
+print "Computed intervals for figure 8:\n%s" % repr(f8bc)
+
+tfbc = pH.computeIntervals(trefoils)
+print "Computed intervals for trefoil:\n%s" % repr(tfbc)
+
+edu.stanford.math.plex4.io.BarcodeWriter.getInstance().writeToFile(tfbc, 0, 3.0, "Trefoil Dimension 0", "trefoil_0.png")
+edu.stanford.math.plex4.io.BarcodeWriter.getInstance().writeToFile(tfbc, 1, 3.0, "Trefoil Dimension 1", "trefoil_1.png")
