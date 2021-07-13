@@ -4,4 +4,4 @@ Here shall be source codes related to Topological(Homology/Cohomology) Signal Pr
 
 
 
-Add Presentation at The 5th International Conference on Matrix Methods In Mathematics and applications (MMMA 2019) August 2019 with representing idea related to Super Resolution Deep Neural Network Wireless Channel Estimation and Continue Value Dictionary Sparse Dictionary Optimization for Faster-than-Nyquist Sampling and it connection to Topology and Machine Learning.
+Add my presentation https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/MMMA-2019_19_8_19_final.pdf from The 5th International Conference on Matrix Methods In Mathematics and applications (MMMA 2019) August 2019 with representing idea related to Super Resolution Deep Neural Network Wireless Channel Estimation and Continue Value Dictionary Sparse Dictionary Optimization for Faster-than-Nyquist Sampling and it connection to Topology and Machine Learning.
