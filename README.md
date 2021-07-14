@@ -36,8 +36,7 @@ Add my presentation https://github.com/Lcrypto/Topology-Signal-Processing/blob/m
    ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/1.jpg)
     
     
-    
-    ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/2.jpg)
+   ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/2.jpg)
   
   
  
