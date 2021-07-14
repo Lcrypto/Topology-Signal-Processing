@@ -10,3 +10,10 @@ Add my presentation https://github.com/Lcrypto/Topology-Signal-Processing/blob/m
 
 
  ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/Quadriga.jpg)
+ 
+ 
+ 
+  ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/ResNet_2D_with_skip_connection_18_blocks.jpg)
+
+
+ ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/detail_layer.jpgg)
