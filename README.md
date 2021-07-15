@@ -35,8 +35,8 @@ Add my presentation https://github.com/Lcrypto/Topology-Signal-Processing/blob/m
  
  
  
- 
- [//]: #    TODO :  late publish Gan(https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/3.jpg)
+ <!---    later publish Gan(https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/3.jpg)  ---> 
+
   
 
   
