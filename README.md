@@ -45,7 +45,7 @@ Add my presentation https://github.com/Lcrypto/Topology-Signal-Processing/blob/m
  
  
  
- <p align="center">   <img width="800" height="600" src="https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/ResNet_2D_with_skip_connection_18_blocks.jpg"> </p>
+ <p align="center">   <img src="https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/ResNet_2D_with_skip_connection_18_blocks.jpg"> </p>
  
  <!---    later publish Gan(https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/3.jpg)  ---> 
 
