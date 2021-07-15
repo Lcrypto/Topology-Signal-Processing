@@ -21,10 +21,11 @@ Add my presentation https://github.com/Lcrypto/Topology-Signal-Processing/blob/m
 
 ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/LTE.jpg)
 
+ ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/CDL-B%2C%2021%20layers%2C%20swish.jpg)
 
 ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/Quadriga.jpg)
  
- 
+
  
 
 ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/detail_layer.jpg)
