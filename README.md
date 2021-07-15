@@ -1,5 +1,5 @@
 # Topology Signal Processing as promising direction to Combine Topology, Physics, Information Theory and Machine Learning
-Here shall be material und source codes related to Topological(Homology/Cohomology) Signal Processing and it's Data-driven (Machine Learning include Deep Neural Network, Graphical Probabilistic Model, Tensor Contraction) and Model-driven (topology complex and it thickening to smooth manifold optimization) approaches.
+Here shall be material und source codes related to Topological(Homology/Cohomology) Signal Processing and it's Data-driven (Machine Learning include Super Resolution Deep Neural Network, Graphical Probabilistic Model, Tensor Contraction) and Model-driven (topology complex and it thickening to smooth manifold optimization) approaches.
 
 ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/1.jpg)
     
