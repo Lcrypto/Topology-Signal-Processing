@@ -11,7 +11,7 @@ Here shall be material und source codes related to Topological(Homology/Cohomolo
 
 
 
-Below simple Matlab example of Convolutiona Neural Network Channel Estimation using 6 layers (conv2d -> relu) Neural Network   from https://github.com/Lcrypto/Topology-Signal-Processing/tree/master/SISO%20Example%20Matlab%206%20Layers%20CNN%2051%20Rbs 
+Below simple Matlab example of Convolutional Neural Network Channel Estimation using 6 layers (conv2d -> relu) Neural Network   from https://github.com/Lcrypto/Topology-Signal-Processing/tree/master/SISO%20Example%20Matlab%206%20Layers%20CNN%2051%20Rbs 
 with SISO  NLOS 5 NR Dowlink TDL-C Channel, 51 RBs, DelaySpread = 3e-7, MaximumDopplerShift = 30 Hz, SNRdB = 7
 
 ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/SISO%20Example%20Matlab%206%20Layers%20CNN%2051%20Rbs/SISO%2051%20RBs.jpg)
