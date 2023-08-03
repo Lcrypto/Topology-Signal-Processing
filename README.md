@@ -49,9 +49,20 @@ Furthermore,  publication titled "Wireless Channels Topology Invariant as Mathem
 ![alt text](https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/detail_layer.jpg)
  
  
+
+
+
  
  
  <p align="center">   <img src="https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/ResNet_2D_with_skip_connection_18_blocks.jpg"> </p>
+
+
+
+
+In paper  V. S. Usatyuk and S. I. Egorov, "2D/3D ResNet Deep Neural Network for 4G and 5G NR Wireless Channel Estimation," 2023 25th International Conference on Digital Signal Processing and its Applications (DSPA), Moscow, Russian Federation, 2023, pp. 1-4 we consider application for more wideband compare to 1 RB for 4G, 20 RBs application for channel estimation of NEW RADIO channel (5G 3gpp release 15). https://ieeexplore.ieee.org/document/10113403
+
+
+ 
  
  <!---    later publish Gan(https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/3.jpg)  ---> 
 
