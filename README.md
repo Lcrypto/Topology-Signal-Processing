@@ -78,7 +78,18 @@ In paper  V. S. Usatyuk and S. I. Egorov, "2D/3D ResNet Deep Neural Network for 
  
  <!---    later publish Gan(https://github.com/Lcrypto/Topology-Signal-Processing/blob/master/DNN%20Channel%20Estimation%20ResNet%20Matlab/5G.jpg)  ---> 
 
+
+
+
   
+# References:
+
+1. V. Usatyuk, "Wireless Channels Topology Invariant as Mathematical Foundation of Neural Network Channel Estimation Transfer Learning Properties," 2020 43rd International Conference on Telecommunications and Signal Processing (TSP), Milan, Italy, 2020, pp. 105-111, doi: 10.1109/TSP49548.2020.9163528.  https://ieeexplore.ieee.org/document/9163528 
+
+
+2. V. S. Usatyuk and S. I. Egorov, "2D/3D ResNet Deep Neural Network for 4G and 5G NR Wireless Channel Estimation," 2023 25th International Conference on Digital Signal Processing and its Applications (DSPA), Moscow, Russian Federation, 2023, pp. 1-4, doi: 10.1109/DSPA57594.2023.10113403. https://ieeexplore.ieee.org/document/10113403
+
+
 
   
       
